@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1564080254,
+	"version": 1564204672,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -115,6 +115,7 @@
 		"images/ttเก็บเชือก-sheet0.png",
 		"images/ttตัดเชือก-sheet0.png",
 		"images/sprite32-sheet0.png",
+		"images/btboos-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
