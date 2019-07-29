@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1564324142,
+	"version": 1564397288,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,6 @@
 		"offlineClient.js",
 		"images/sprite12-sheet0.png",
 		"images/bg0-sheet0.png",
-		"images/delete0-sheet0.png",
 		"images/save-sheet0.png",
 		"images/sprite23-sheet0.png",
 		"images/sprite29-sheet0.png",
@@ -29,6 +28,7 @@
 		"images/mf-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/ui04-sheet0.png",
@@ -96,6 +96,7 @@
 		"images/sprite33-sheet0.png",
 		"images/fโหลด-sheet0.png",
 		"images/sprite34-sheet0.png",
+		"images/sprite37-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
