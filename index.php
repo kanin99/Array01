@@ -47,13 +47,12 @@
       <div class="container text-center">
         <h1>Welcome เว็บพนันบอลหนึ่งเดียวในอิสรเอล</h1>
         <h2>Welcome to Scrolling Nav</h2>
-        <p class="lead">
+        <p class="lead">A landing page template freshly redesigned for Bootstrap 4
 <!-- ใส่เว็บอืนๆ -->
-<iframe name="I1" width="350px" align="center" border="0" frameborder="0" src="https://kanin99.github.io/Box45-v02/" height="800px" target="_blank">
+<iframe name="I1" width="350px" align="center" border="0" frameborder="0" src="https://kanin99.github.io/Box45-v02/" height="1300px" target="_blank">
 Your browser does not support inline frames or is currently configured not to display inline frames.
 </iframe>
 <!-- ใส่เว็บอืนๆ -->  
-
 </p>
       </div>
     </header>
@@ -100,7 +99,7 @@ Your browser does not support inline frames or is currently configured not to di
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Kanin Website 2019</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
       </div>
       <!-- /.container -->
     </footer>
